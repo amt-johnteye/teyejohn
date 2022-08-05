@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teyejohn
-- 👀 I’m interested in web/software development, robotics, etc.
+- 👀 I’m interested in web/software development, robotics, AI etc.
 - 🌱 I’m currently learning full stack web development.
 - 💞️ I’m looking to collaborate on anything web, software etc.
 - 📫 How to reach me www.linkedin.com/in/teyejohn
